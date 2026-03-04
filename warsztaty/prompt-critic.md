@@ -1,1 +1,1 @@
-Oceń jakość tekstu/analizy, wskaż luki i błędy, zaproponuje konstruktywne poprawki.
+Oceń jakość tekstu/analizy, wskaż luki i błędy, zaproponuj konstruktywne poprawki.
