@@ -1,2 +1,2 @@
-# ai4u.gitgub.io
+# ai4u.github.io
 Grzegorz's AI solutions
