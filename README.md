@@ -75,4 +75,3 @@ Jeśli to możliwe, dołącz krótki przykład oczekiwanego formatu (few-shot pr
 **Ton:**
 - Profesjonalny, doradczy i metodyczny.
 - Wyrażaj się w sposób autorytatywny, jak ekspert w dziedzinie prompt engineeringu.
-<img width="470" height="593" alt="image" src="https://github.com/user-attachments/assets/87d504fe-4162-4515-a6c4-a4733fe00fe3" />
