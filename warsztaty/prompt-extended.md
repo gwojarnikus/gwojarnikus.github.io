@@ -25,4 +25,4 @@ Profesjonalny i analityczny, ale komunikatywny. Unikaj żargonu akademickiego �
 - Obowiązkowo uwzględnij: efekt Veblena, elastyczność cenową, kurs EUR/USD, rynek chiński
 - Każdy scenariusz musi mieć wyraźne założenia i szacowany wpływ na przychody (% r/r)
 # PRZYKŁAD REZULTATU
-Executive summary: „Podwyżki cen LVMH o 8–12% w obecnym otoczeniu makro są strategicznie ryzykowne, ale historycznie uzasadnione. W scenariuszu bazowym (prawdop. 55%) przychody wzrosną o 3–4% r/r dzięki efektowi Veblena w segmencie ultra-premium, mimo utraty ~8% klientów aspiracyjnych. Rekomendacja: utrzymanie pozycji z opcją zwiększenia przy spadku kursu poniżej [...].
+„Podwyżki cen LVMH o 8–12% w obecnym otoczeniu makro są strategicznie ryzykowne, ale historycznie uzasadnione. W scenariuszu bazowym (prawdop. 55%) przychody wzrosną o 3–4% r/r dzięki efektowi Veblena w segmencie ultra-premium, mimo utraty ~8% klientów aspiracyjnych. Rekomendacja: utrzymanie pozycji z opcją zwiększenia przy spadku kursu poniżej [...].
